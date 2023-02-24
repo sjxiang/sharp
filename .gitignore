@@ -1,4 +1,10 @@
 
 # Custom
+
+# 文件夹
 .vscode/
+
+# 文件
+go.sum
+
 
